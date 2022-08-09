@@ -147,7 +147,7 @@
     "inherits": "^2.0.4",
     "import-local": "^3.0.2",
     "inflight": "^1.0.6",
-    "is-arrayish": "^0.2.1",
+    "is-arrayish": "^0.3.2",
     "is-extglob": "^2.1.1",
     "is-fullwidth-code-point": "^3.0.0",
     "is-generator-fn": "^2.1.0",
