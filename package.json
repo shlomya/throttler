@@ -300,6 +300,6 @@
     "yargs": "^17.5.1",
     "yn": "^3.1.1",
     "yocto-queue": "^0.1.0",
-    "yargs-parser": "^21.0.1"
+    "yargs-parser": "^21.1.1"
   }
 }
