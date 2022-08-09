@@ -145,7 +145,7 @@
     "import-fresh": "^3.3.0",
     "imurmurhash": "^0.1.4",
     "inherits": "^2.0.4",
-    "import-local": "^3.0.2",
+    "import-local": "^3.1.0",
     "inflight": "^1.0.6",
     "is-arrayish": "^0.2.1",
     "is-extglob": "^2.1.1",
