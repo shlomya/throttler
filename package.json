@@ -79,7 +79,7 @@
     "co": "^4.6.0",
     "cliui": "^7.0.4",
     "collect-v8-coverage": "^1.0.1",
-    "color-convert": "^1.9.3",
+    "color-convert": "^2.0.1",
     "color-name": "^1.1.3",
     "concat-map": "^0.0.1",
     "convert-source-map": "^1.7.0",
