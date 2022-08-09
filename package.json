@@ -272,7 +272,7 @@
     "terminal-link": "^2.1.1",
     "supports-hyperlinks": "^2.2.0",
     "text-table": "^0.2.0",
-    "table": "^6.7.1",
+    "table": "^6.8.0",
     "to-fast-properties": "^2.0.0",
     "tmpl": "^1.0.5",
     "tree-kill": "^1.2.2",
