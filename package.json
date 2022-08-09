@@ -85,7 +85,7 @@
     "convert-source-map": "^1.7.0",
     "cjs-module-lexer": "^1.2.2",
     "dedent": "^0.7.0",
-    "deep-is": "^0.1.3",
+    "deep-is": "^0.1.4",
     "create-require": "^1.1.1",
     "deepmerge": "^4.2.2",
     "detect-newline": "^3.1.0",
