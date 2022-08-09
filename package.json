@@ -261,7 +261,7 @@
     "sprintf-js": "^1.0.3",
     "slice-ansi": "^4.0.0",
     "source-map-support": "^0.5.21",
-    "string-length": "^4.0.2",
+    "string-length": "^5.0.1",
     "stack-utils": "^2.0.5",
     "string-width": "^4.2.2",
     "strip-ansi": "^6.0.0",
