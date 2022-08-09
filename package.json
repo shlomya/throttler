@@ -94,7 +94,7 @@
     "dir-glob": "^3.0.1",
     "doctrine": "^3.0.0",
     "emoji-regex": "^8.0.0",
-    "diff": "^4.0.2",
+    "diff": "^5.1.0",
     "dynamic-dedupe": "^0.3.0",
     "emittery": "^0.10.2",
     "electron-to-chromium": "^1.4.206",
