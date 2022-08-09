@@ -155,7 +155,7 @@
     "is-core-module": "^2.2.0",
     "is-glob": "^4.0.1",
     "is-binary-path": "^2.1.0",
-    "is-stream": "^2.0.0",
+    "is-stream": "^3.0.0",
     "isexe": "^2.0.0",
     "istanbul-lib-coverage": "^3.2.0",
     "istanbul-lib-report": "^3.0.0",
