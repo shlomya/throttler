@@ -222,7 +222,7 @@
     "p-locate": "^4.1.0",
     "optionator": "^0.9.1",
     "parent-module": "^1.0.1",
-    "p-try": "^2.2.0",
+    "p-try": "^3.0.0",
     "path-exists": "^4.0.0",
     "parse-json": "^5.2.0",
     "path-type": "^4.0.0",
