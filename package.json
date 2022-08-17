@@ -289,7 +289,7 @@
     "v8-compile-cache-lib": "^3.0.1",
     "v8-to-istanbul": "^9.0.1",
     "word-wrap": "^1.2.3",
-    "write-file-atomic": "^4.0.1",
+    "write-file-atomic": "^4.0.2",
     "wrap-ansi": "^7.0.0",
     "walker": "^1.0.8",
     "which": "^2.0.2",
