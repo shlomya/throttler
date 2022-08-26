@@ -90,7 +90,7 @@
     "deepmerge": "^4.2.2",
     "detect-newline": "^3.1.0",
     "cross-spawn": "^7.0.3",
-    "diff-sequences": "^28.1.1",
+    "diff-sequences": "^29.0.0",
     "dir-glob": "^3.0.1",
     "doctrine": "^3.0.0",
     "emoji-regex": "^8.0.0",
