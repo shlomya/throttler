@@ -141,7 +141,7 @@
     "html-escaper": "^2.0.2",
     "globby": "^11.0.4",
     "human-signals": "^2.1.0",
-    "ignore": "^5.1.8",
+    "ignore": "^5.2.2",
     "import-fresh": "^3.3.0",
     "imurmurhash": "^0.1.4",
     "inherits": "^2.0.4",
