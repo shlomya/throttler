@@ -215,7 +215,7 @@
     "npm-run-path": "^4.0.1",
     "once": "^1.4.0",
     "minimist": "^1.2.6",
-    "mkdirp": "^1.0.4",
+    "mkdirp": "^2.0.0",
     "onetime": "^5.1.2",
     "node-releases": "^2.0.6",
     "p-limit": "^2.3.0",
