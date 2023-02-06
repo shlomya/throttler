@@ -217,7 +217,7 @@
     "minimist": "^1.2.6",
     "mkdirp": "^1.0.4",
     "onetime": "^5.1.2",
-    "node-releases": "^2.0.6",
+    "node-releases": "^2.0.10",
     "p-limit": "^2.3.0",
     "p-locate": "^4.1.0",
     "optionator": "^0.9.1",
