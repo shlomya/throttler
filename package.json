@@ -109,7 +109,7 @@
     "esrecurse": "^4.3.0",
     "esprima": "^4.0.1",
     "esutils": "^2.0.3",
-    "esquery": "^1.4.0",
+    "esquery": "^1.4.1",
     "exit": "^0.1.2",
     "estraverse": "^4.3.0",
     "fast-deep-equal": "^3.1.3",
