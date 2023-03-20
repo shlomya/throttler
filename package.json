@@ -140,7 +140,7 @@
     "has-flag": "^3.0.0",
     "html-escaper": "^2.0.2",
     "globby": "^11.0.4",
-    "human-signals": "^2.1.0",
+    "human-signals": "^4.3.1",
     "ignore": "^5.1.8",
     "import-fresh": "^3.3.0",
     "imurmurhash": "^0.1.4",
