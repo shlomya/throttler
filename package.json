@@ -224,7 +224,7 @@
     "parent-module": "^1.0.1",
     "p-try": "^2.2.0",
     "path-exists": "^4.0.0",
-    "parse-json": "^5.2.0",
+    "parse-json": "^7.0.0",
     "path-type": "^4.0.0",
     "path-is-absolute": "^1.0.1",
     "path-parse": "^1.0.6",
