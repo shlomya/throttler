@@ -83,7 +83,7 @@
     "color-name": "^1.1.3",
     "concat-map": "^0.0.1",
     "convert-source-map": "^1.7.0",
-    "cjs-module-lexer": "^1.2.2",
+    "cjs-module-lexer": "^1.2.3",
     "dedent": "^0.7.0",
     "deep-is": "^0.1.3",
     "create-require": "^1.1.1",
