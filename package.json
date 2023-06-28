@@ -220,7 +220,7 @@
     "node-releases": "^2.0.6",
     "p-limit": "^2.3.0",
     "p-locate": "^4.1.0",
-    "optionator": "^0.9.1",
+    "optionator": "^0.9.3",
     "parent-module": "^1.0.1",
     "p-try": "^2.2.0",
     "path-exists": "^4.0.0",
