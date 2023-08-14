@@ -64,7 +64,7 @@
     "balanced-match": "^1.0.0",
     "buffer-from": "^1.1.1",
     "brace-expansion": "^1.1.11",
-    "callsites": "^3.1.0",
+    "callsites": "^4.1.0",
     "browserslist": "^4.21.3",
     "binary-extensions": "^2.2.0",
     "bser": "^2.1.1",
