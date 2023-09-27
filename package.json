@@ -251,7 +251,7 @@
     "resolve.exports": "^1.1.0",
     "run-parallel": "^1.2.0",
     "reusify": "^1.0.4",
-    "rimraf": "^3.0.2",
+    "rimraf": "^5.0.5",
     "signal-exit": "^3.0.3",
     "shebang-command": "^2.0.0",
     "sisteransi": "^1.0.5",
