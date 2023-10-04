@@ -135,7 +135,7 @@
     "get-stream": "^6.0.1",
     "glob": "^7.2.3",
     "globals": "^11.12.0",
-    "has": "^1.0.3",
+    "has": "^1.0.4",
     "glob-parent": "^5.1.2",
     "has-flag": "^3.0.0",
     "html-escaper": "^2.0.2",
