@@ -126,7 +126,7 @@
     "fsevents": "^2.3.2",
     "flatted": "^3.2.2",
     "flat-cache": "^3.0.4",
-    "function-bind": "^1.1.1",
+    "function-bind": "^1.1.2",
     "fs.realpath": "^1.0.0",
     "functional-red-black-tree": "^1.0.1",
     "get-caller-file": "^2.0.5",
