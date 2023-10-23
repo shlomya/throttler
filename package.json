@@ -152,7 +152,7 @@
     "is-fullwidth-code-point": "^3.0.0",
     "is-generator-fn": "^2.1.0",
     "is-number": "^7.0.0",
-    "is-core-module": "^2.2.0",
+    "is-core-module": "^2.13.1",
     "is-glob": "^4.0.1",
     "is-binary-path": "^2.1.0",
     "is-stream": "^2.0.0",
