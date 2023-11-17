@@ -120,7 +120,7 @@
     "fast-glob": "^3.2.5",
     "fill-range": "^7.0.1",
     "fastq": "^1.11.0",
-    "find-up": "^4.1.0",
+    "find-up": "^7.0.0",
     "fb-watchman": "^2.0.1",
     "file-entry-cache": "^6.0.1",
     "fsevents": "^2.3.2",
