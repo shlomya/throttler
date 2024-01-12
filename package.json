@@ -46,7 +46,7 @@
     "ajv": "^6.12.6",
     "acorn": "^8.8.0",
     "acorn-jsx": "^5.3.2",
-    "acorn-walk": "^8.2.0",
+    "acorn-walk": "^8.3.2",
     "ansi-regex": "^5.0.0",
     "ansi-escapes": "^4.3.2",
     "ansi-colors": "^4.1.1",
