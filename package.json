@@ -74,7 +74,7 @@
     "bs-logger": "^0.2.6",
     "chalk": "^2.4.2",
     "char-regex": "^1.0.2",
-    "chokidar": "^3.5.3",
+    "chokidar": "^3.6.0",
     "ci-info": "^3.3.2",
     "co": "^4.6.0",
     "cliui": "^7.0.4",
