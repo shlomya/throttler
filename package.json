@@ -118,7 +118,7 @@
     "fast-levenshtein": "^2.0.6",
     "fast-json-stable-stringify": "^2.1.0",
     "fast-glob": "^3.2.5",
-    "fill-range": "^7.0.1",
+    "fill-range": "^7.1.1",
     "fastq": "^1.11.0",
     "find-up": "^4.1.0",
     "fb-watchman": "^2.0.1",
