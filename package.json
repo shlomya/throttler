@@ -250,7 +250,7 @@
     "safe-buffer": "^5.1.2",
     "resolve.exports": "^1.1.0",
     "run-parallel": "^1.2.0",
-    "reusify": "^1.0.4",
+    "reusify": "^1.1.0",
     "rimraf": "^3.0.2",
     "signal-exit": "^3.0.3",
     "shebang-command": "^2.0.0",
