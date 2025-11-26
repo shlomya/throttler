@@ -242,7 +242,7 @@
     "react-is": "^18.2.0",
     "require-directory": "^2.1.1",
     "require-from-string": "^2.0.2",
-    "readdirp": "^3.6.0",
+    "readdirp": "^5.0.0",
     "resolve-cwd": "^3.0.0",
     "queue-microtask": "^1.2.2",
     "resolve-from": "^4.0.0",
