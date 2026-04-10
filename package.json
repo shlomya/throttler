@@ -255,7 +255,7 @@
     "signal-exit": "^3.0.3",
     "shebang-command": "^2.0.0",
     "sisteransi": "^1.0.5",
-    "shebang-regex": "^3.0.0",
+    "shebang-regex": "^4.0.0",
     "semver": "^7.3.7",
     "source-map": "^0.6.1",
     "sprintf-js": "^1.0.3",
