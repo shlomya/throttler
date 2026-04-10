@@ -262,7 +262,7 @@
     "slice-ansi": "^4.0.0",
     "source-map-support": "^0.5.21",
     "string-length": "^4.0.2",
-    "stack-utils": "^2.0.5",
+    "stack-utils": "^2.0.6",
     "string-width": "^4.2.2",
     "strip-ansi": "^6.0.0",
     "strip-json-comments": "^3.1.1",
