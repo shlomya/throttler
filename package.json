@@ -285,7 +285,7 @@
     "type-detect": "^4.0.8",
     "type-fest": "^0.20.2",
     "uri-js": "^4.4.1",
-    "v8-compile-cache": "^2.3.0",
+    "v8-compile-cache": "^2.4.0",
     "v8-compile-cache-lib": "^3.0.1",
     "v8-to-istanbul": "^9.0.1",
     "word-wrap": "^1.2.3",
