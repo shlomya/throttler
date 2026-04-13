@@ -214,7 +214,7 @@
     "normalize-path": "^3.0.0",
     "npm-run-path": "^4.0.1",
     "once": "^1.4.0",
-    "minimist": "^1.2.6",
+    "minimist": "^1.2.8",
     "mkdirp": "^1.0.4",
     "onetime": "^5.1.2",
     "node-releases": "^2.0.6",
