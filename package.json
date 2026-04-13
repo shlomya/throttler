@@ -158,7 +158,7 @@
     "is-stream": "^2.0.0",
     "isexe": "^2.0.0",
     "istanbul-lib-coverage": "^3.2.0",
-    "istanbul-lib-report": "^3.0.0",
+    "istanbul-lib-report": "^3.0.1",
     "istanbul-reports": "^3.1.5",
     "istanbul-lib-instrument": "^5.2.0",
     "istanbul-lib-source-maps": "^4.0.1",
